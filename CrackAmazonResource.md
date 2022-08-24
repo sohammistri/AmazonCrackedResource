@@ -34,10 +34,10 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Two Sum](https://leetcode.com/problems/two-sum/) | ✅ | [This video ](https://www.youtube.com/watch?v=KLlXCFG5TnA) best, do not create the full hash map |
 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  | ✅ |  |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | ✅ | Fallbacks: If old value updated, no need to evict; also if value not seen before, by default print 0, not that |
-| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
-| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
-| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
+| [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  | ✅ | Good 2d dp problem |
+| [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | ✅ | Trajan's algo for bridges |
+| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  | ✅ |  |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  | ✅ |  |
 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | ✅ |  |
 
 
