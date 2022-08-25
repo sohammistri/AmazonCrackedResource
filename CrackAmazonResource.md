@@ -53,11 +53,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Most Common Word](https://leetcode.com/problems/most-common-word/)  | ✅ |  |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ | Min heap solution |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ✅ | New idea: expand from middle and see that in bounds and pallindrome, [This video](https://www.youtube.com/watch?v=XYQecbcd6_c) |
-| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
+| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  | ✅ |  |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
 | [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/) | ✅ |  |
 
 ---
 <br>
