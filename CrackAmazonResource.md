@@ -54,9 +54,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) | ✅ | Min heap solution |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) | ✅ | New idea: expand from middle and see that in bounds and pallindrome, [This video](https://www.youtube.com/watch?v=XYQecbcd6_c) |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  | ✅ |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  | ✅ | [Best Solution](https://leetcode.com/problems/trapping-rain-water/discuss/17357/Sharing-my-simple-c%2B%2B-code%3A-O(n)-time-O(1)-space) |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  | ✅ |  |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  | ✅ |  |
 | [Friend Circles]( https://leetcode.com/problems/friend-circles/) | ✅ |  |
 
 ---
